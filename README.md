@@ -1,14 +1,21 @@
 ## 👨‍💻 About Me
 
 Hi, I'm Piyush Singh  
-Software Engineer| backend Engineer | Java | Spring Boot | TypeScript | React | Data Structures & Algorithms | System Design  
+Software Engineer| backend Engineer | Java | Spring Boot | TypeScript | Nest.js| React | Data Structures & Algorithms | System Design 
 
-Skilled in problem-solving, debugging, and troubleshooting complex production issues, with a focus on writing clean, optimized, and maintainable code. Experienced in developing real-time data aggregation platforms, implementing Redis caching to improve performance, and designing cloud-native systems for scalability and low latency.
+My skills building and scaling production-grade distributed systems and AI-powered backend platforms using required Tools and Backend Server. Strong hands-on experience with modern tools, cloud platforms, and system design principles, with the ability to quickly learn, adapt, and implement new technologies in real-world applications.
+Focused on understanding system architecture deeply before implementation, enabling rapid development, efficient debugging, and performance optimization of complex systems.
 
-Proficient in REST APIs, distributed systems, MySQL, PostgreSQL, MongoDB, and AWS infrastructure.
+Technical Skills:
+Languages: Java, JavaScript, Typescript ,SQL, Python
+Backend: Spring Boot,Nest.js Spring MVC, Hibernate, Microservices, REST APIs
+Frontent: React
+AI/ML: Scikit-learn, TensorFlow, Predictive Modeling, Time-Series Forecasting
+Cloud & DevOps: AWS (EC2, S3, RDS), Docker, CI/CD
+Databases: MySQL, PostgreSQL, MongoDB, Redis
+Core Expertise: Distributed Systems, Scalability, API Design, Caching, Fault Tolerance, High Availability
 
-Interested in backend engineering, distributed systems, and building high-impact, performance-driven products. Open to work software engineering opportunities.
-Solved 1300+ LeetCode problems and building scalable backend and SaaS systems.
+Open to work software engineering opportunities.
 
 ---
 
