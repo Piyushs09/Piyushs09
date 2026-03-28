@@ -7,12 +7,19 @@ My skills building and scaling production-grade distributed systems and AI-power
 Focused on understanding system architecture deeply before implementation, enabling rapid development, efficient debugging, and performance optimization of complex systems.
 
 Technical Skills:
+
 Languages: Java, JavaScript, Typescript ,SQL, Python
+
 Backend: Spring Boot,Nest.js Spring MVC, Hibernate, Microservices, REST APIs
+
 Frontent: React
+
 AI/ML: Scikit-learn, TensorFlow, Predictive Modeling, Time-Series Forecasting
+
 Cloud & DevOps: AWS (EC2, S3, RDS), Docker, CI/CD
+
 Databases: MySQL, PostgreSQL, MongoDB, Redis
+
 Core Expertise: Distributed Systems, Scalability, API Design, Caching, Fault Tolerance, High Availability
 
 Open to work software engineering opportunities.
